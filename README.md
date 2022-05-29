@@ -1,5 +1,5 @@
-# Attendance-Portal
-A portal where students and teachers can register themselves,login to view the student's attendance & capture attendance.
+# Attendance_System-Face Recognition 
+Web based application where students and teachers can register themselves and mark their attendance. 
 
 # Tech Stack
 Python <br />
@@ -37,5 +37,4 @@ Access to Django Admin Page : http://127.0.0.1:8000/admin <br />
 Username : admin <br />
 Password : admin 
 
-# Tutorial
-https://youtu.be/34-WCQeyJR0
+
